@@ -1,0 +1,1339 @@
+[
+  {
+    "muscle": "occipitofrontalis",
+    "origin": "2 occipital bellies and 2 frontal bellies.",
+    "insertion": "galea aponeurotica",
+    "nerve": "facial nerve",
+    "action": "raises the eyebrows"
+  },
+  {
+    "muscle": "occipitalis",
+    "origin": "superior nuchal line of the occipital bone",
+    "insertion": "galea aponeurotica",
+    "nerve": "posterior auricular nerve (facial nerve)",
+    "action": ""
+  },
+  {
+    "muscle": "orbicularis oculi",
+    "origin": "frontal bone; medial palpebral ligament; lacrimal bone",
+    "insertion": "lateral palpebral raphe",
+    "nerve": "zygomatic branch of facial",
+    "action": "closes eyelids"
+  },
+  {
+    "muscle": "corrugator supercilii",
+    "origin": "superciliary arches",
+    "insertion": "forehead skin, near eyebrow",
+    "nerve": "facial nerve",
+    "action": "wrinkles forehead"
+  },
+  {
+    "muscle": "depressor supercilii",
+    "origin": "medial orbital rim",
+    "insertion": "medial aspect of bony orbit",
+    "nerve": "facial nerve",
+    "action": "Depresses the eyebrow"
+  },
+  {
+    "muscle": "levator palpebrae superioris",
+    "origin": "sphenoid bone",
+    "insertion": "tarsal plate, upper eyelid",
+    "nerve": "oculomotor nerve",
+    "action": "retracts//elevates eyelid"
+  },
+  {
+    "muscle": "superior tarsal",
+    "origin": "underside of levator palpebrae superioris",
+    "insertion": "superior tarsal plate of the eyelid",
+    "nerve": "raise the upper eyelid",
+    "action": ""
+  },
+  {
+    "muscle": "orbicularis oculi",
+    "origin": "frontal bone, medial palpebral ligament, and lacrimal bone",
+    "insertion": "lateral palpebral raphe",
+    "nerve": "facial nerve",
+    "action": "closes the eyelids"
+  },
+  {
+    "muscle": "auriculares",
+    "origin": "galeal aponeurosis",
+    "insertion": "front of the helix, cranial surface of the pinna",
+    "nerve": "facial nerve",
+    "action": "(Wiggle ears)"
+  },
+  {
+    "muscle": "temporoparietalis",
+    "origin": "auriculares muscles",
+    "insertion": "galea aponeurotica",
+    "nerve": "",
+    "action": ""
+  },
+  {
+    "muscle": "stapedius",
+    "origin": "",
+    "insertion": "neck of stapes",
+    "nerve": "facial nerve",
+    "action": "control the amplitude of sound waves to the inner ear"
+  },
+  {
+    "muscle": "tensor tympani",
+    "origin": "Eustachian tube",
+    "insertion": "handle of the malleus",
+    "nerve": "medial pterygoid nerve from mandibular nerve",
+    "action": "tensing the tympanic membrane"
+  },
+  {
+    "muscle": "procerus",
+    "origin": "from fascia over the lower of the nasal bone",
+    "insertion": "skin of the lower part of the forehead between the eyebrows",
+    "nerve": "buccal branch of the facial nerve",
+    "action": "Draws down the medial angle of the eyebrow, giving expressions of frowning"
+  },
+  {
+    "muscle": "nasalis",
+    "origin": "maxilla",
+    "insertion": "nasal bone",
+    "nerve": "Compresses bridge, depresses tip of nose, elevates corners of nostrils",
+    "action": ""
+  },
+  {
+    "muscle": "dilatator naris",
+    "origin": "margin of the nasal notch of the maxilla, greater and lesser alar cartilages",
+    "insertion": "skin near the margin of the nostril",
+    "nerve": "dilation of nostrils",
+    "action": ""
+  },
+  {
+    "muscle": "depressor septi nasi",
+    "origin": "incisive fossa of the maxilla",
+    "insertion": "nasal septum and back part of the alar part of nasalis muscle",
+    "nerve": "depression of nasal septum",
+    "action": ""
+  },
+  {
+    "muscle": "levator labii superioris alaeque nasi",
+    "origin": "maxilla",
+    "insertion": "nostril and upper lip",
+    "nerve": "dilates the nostril; elevates the upper lip and wing of the nose",
+    "action": ""
+  },
+  {
+    "muscle": "levator anguli oris",
+    "origin": "maxilla",
+    "insertion": "modiolus of mouth",
+    "nerve": "facial nerve",
+    "action": "smile (elevates angle of mouth)"
+  },
+  {
+    "muscle": "depressor anguli oris",
+    "origin": "tubercle of mandible",
+    "insertion": "modiolus of mouth",
+    "nerve": "mandibular branch of facial nerve",
+    "action": "depresses angle of mouth"
+  },
+  {
+    "muscle": "levator labii superioris",
+    "origin": "medial infra-orbital margin",
+    "insertion": "skin and muscle of the upper lip (labii superioris)",
+    "nerve": "buccal branch of the facial nerve",
+    "action": "Elevates the upper lip"
+  },
+  {
+    "muscle": "depressor labii inferioris",
+    "origin": "oblique line of the mandible, between the symphysis and the mental foramen",
+    "insertion": "integument of the lower lip, orbicularis oris fibers, its fellow of the opposite side",
+    "nerve": "facial nerve",
+    "action": "Depresses the lower lip"
+  },
+  {
+    "muscle": "mentalis",
+    "origin": "anterior mandible",
+    "insertion": "chin",
+    "nerve": "mandibular branch of facial nerve",
+    "action": "elevates and wrinkles skin of chin, protrudes lower lip"
+  },
+  {
+    "muscle": "buccinator",
+    "origin": "alveolar processes of the maxillary bone and mandible, pterygomandibular raphe",
+    "insertion": "in the fibres of the orbicularis oris",
+    "nerve": "buccal branch of the facial nerve",
+    "action": "compress the cheeks against the teeth (blowing), mastication."
+  },
+  {
+    "muscle": "orbicularis oris",
+    "origin": "maxilla and mandible",
+    "insertion": "skin around the lips",
+    "nerve": "pucker the lips",
+    "action": ""
+  },
+  {
+    "muscle": "risorius",
+    "origin": "parotid fascia",
+    "insertion": "modiolus",
+    "nerve": "draw back angle of mouth",
+    "action": ""
+  },
+  {
+    "muscle": "masseter",
+    "origin": "zygomatic arch and maxilla",
+    "insertion": "coronoid process and ramus of mandible",
+    "nerve": "masseteric nerve (V3)",
+    "action": "elevation (as in closing of the mouth) and retraction of mandible"
+  },
+  {
+    "muscle": "temporalis",
+    "origin": "temporal lines on the parietal bone of the skull",
+    "insertion": "coronoid process of the mandible",
+    "nerve": "third branch (mandibular nerve) of the trigeminal nerve",
+    "action": "elevation and retraction of mandible"
+  },
+  {
+    "muscle": "genioglossus",
+    "origin": "Superior part of mental spine of mandible (symphysis menti)",
+    "insertion": "Dorsum of tongue and body of hyoid",
+    "nerve": "hypoglossal nerve",
+    "action": "Complex - Inferior fibers protrude the tongue, middle fibers depress the tongue, and its superior fibers draw the tip back and down"
+  },
+  {
+    "muscle": "hyoglossus",
+    "origin": "hyoid",
+    "insertion": "side of the tongue",
+    "nerve": "hypoglossal nerve",
+    "action": "depresses tongue"
+  },
+  {
+    "muscle": "chondroglossus",
+    "origin": "lesser cornu and body of the hyoid bone",
+    "insertion": "intrinsic muscular fibers of the tongue",
+    "nerve": "hypoglossal nerve",
+    "action": "depresses tongue (some consider this muscle to be part of hyoglossus)"
+  },
+  {
+    "muscle": "styloglossus",
+    "origin": "Styloid process of temporal bone",
+    "insertion": "tongue",
+    "nerve": "Hypoglossal nerve",
+    "action": "elevates and retracts tongue"
+  },
+  {
+    "muscle": "palatoglossus",
+    "origin": "palatine aponeurosis",
+    "insertion": "tongue",
+    "nerve": "vagus nerve and cranial accessory nerve",
+    "action": "raising the back part of the tongue"
+  },
+  {
+    "muscle": "superior longitudinal",
+    "origin": "close to the epiglottis, from the median fibrous septum",
+    "insertion": "edges of the tongue",
+    "nerve": "hypoglossal nerve",
+    "action": "shortens, turns tip upward, turns lateral margins upward"
+  },
+  {
+    "muscle": "transversus",
+    "origin": "median fibrous septum",
+    "insertion": "sides of the tongue",
+    "nerve": "hypoglossal nerve",
+    "action": "narrows and elongates"
+  },
+  {
+    "muscle": "inferior longitudinal",
+    "origin": "root of the tongue",
+    "insertion": "apex of the tongue",
+    "nerve": "Hypoglossal nerve",
+    "action": "shortens, retracts, pulls tip downward"
+  },
+  {
+    "muscle": "verticalis muscle",
+    "origin": "dorsum of tongue",
+    "insertion": "inferior surface borders of tongue",
+    "nerve": "hypoglossal nerve",
+    "action": "flattens"
+  },
+  {
+    "muscle": "levator veli palatini",
+    "origin": "temporal bone, Eustachian tube",
+    "insertion": "palatine aponeurosis",
+    "nerve": "vagus nerve",
+    "action": "Aids in swallowing by elevating the soft palate"
+  },
+  {
+    "muscle": "tensor veli palatini",
+    "origin": "medial pterygoid plate of the sphenoid bone",
+    "insertion": "",
+    "nerve": "Aids in swallowing by controlling the tension of the soft palate",
+    "action": ""
+  },
+  {
+    "muscle": "musculus uvulae",
+    "origin": "hard palate",
+    "insertion": "",
+    "nerve": "Moves and changes shape of the uvula",
+    "action": ""
+  },
+  {
+    "muscle": "palatoglossus",
+    "origin": "palatine aponeurosis",
+    "insertion": "tongue",
+    "nerve": "vagus nerve and cranial accessory nerve",
+    "action": "Aids in respiration by raising the back part of the tongue"
+  },
+  {
+    "muscle": "palatopharyngeus",
+    "origin": "palatine aponeurosis and hard palate",
+    "insertion": "upper border of thyroid cartilage (blends with constrictor fibers)",
+    "nerve": "vagus nerve and cranial accessory nerve",
+    "action": "Aids in respiration by pulling the pharynx and larynx"
+  },
+  {
+    "muscle": "stylopharyngeus",
+    "origin": "temporal styloid process",
+    "insertion": "thyroid cartilage (pharynx)",
+    "nerve": "glossopharyngeal nerve",
+    "action": "elevate the larynx, elevate the pharynx, swallowing"
+  },
+  {
+    "muscle": "salpingopharyngeus",
+    "origin": "cartilage of the Eustachian tube",
+    "insertion": "posterior fasciculus of the pharyngopalatinus muscle",
+    "nerve": "vagus nerve and cranial accessory nerve",
+    "action": "raise the nasopharynx"
+  },
+  {
+    "muscle": "cricothyroid",
+    "origin": "anterior and lateral cricoid cartilage",
+    "insertion": "inferior cornu and lamina of the thyroid cartilage",
+    "nerve": "external laryngeal branch of the vagus",
+    "action": "tension and elongation of the vocal folds (has minor adductory effect)"
+  },
+  {
+    "muscle": "arytenoid",
+    "origin": "arytenoid cartilage on one side",
+    "insertion": "arytenoid cartilage on opposite side",
+    "nerve": "recurrent laryngeal branch of the vagus",
+    "action": "approximate the arytenoid cartilages (close rima glottidis)"
+  },
+  {
+    "muscle": "thyroarytenoid",
+    "origin": "inner surface of the thyroid cartilage (anterior aspect)",
+    "insertion": "anterior surface of arytenoid cartilage",
+    "nerve": "recurrent laryngeal branch of the vagus",
+    "action": "thickens the vocal folds and decreases length; also helps to adduct the vocal folds during speech"
+  },
+  {
+    "muscle": "platysma",
+    "origin": "inferior clavicle and fascia of chest",
+    "insertion": "mandible",
+    "nerve": "cervical branch of the facial nerve (CN VII)",
+    "action": "Draws the corners of the mouth inferiorly and widens it (as in expressions of sadness and fright). Also draws the skin of the neck superiorly when teeth are clenched"
+  },
+  {
+    "muscle": "sternocleidomastoid",
+    "origin": "manubrium sterni, medial portion of the clavicle",
+    "insertion": "mastoid process of the temporal bone, superior nuchal line",
+    "nerve": "motor: accessory nerve",
+    "action": "Acting alone, tilts head to its own side and rotates it so the face is turned towards the opposite side."
+  },
+  {
+    "muscle": "digastric",
+    "origin": "anterior belly - digastric fossa (mandible); posterior belly - mastoid process of temporal bone",
+    "insertion": "Intermediate tendon (hyoid bone)",
+    "nerve": "anterior belly - mandibular division of the trigeminal (CN V) via the mylohyoid nerve; posterior belly - facial nerve (CN VII)",
+    "action": "Opens the jaw when the masseter and the temporalis are relaxed."
+  },
+  {
+    "muscle": "stylohyoid",
+    "origin": "styloid process (temporal)",
+    "insertion": "greater cornu of hyoid bone",
+    "nerve": "facial nerve (CN VII)",
+    "action": "Elevate the hyoid during swallowing"
+  },
+  {
+    "muscle": "mylohyoid",
+    "origin": "Mylohyoid line (mandible)",
+    "insertion": "Median raphé",
+    "nerve": "mylohyoid nerve, from inferior alveolar branch of mandibular nerve [V3]",
+    "action": "Raises oral cavity floor, elevates hyoid, depresses mandible"
+  },
+  {
+    "muscle": "geniohyoid",
+    "origin": "Symphysis menti",
+    "insertion": "hyoid bone",
+    "nerve": "C1 via hypoglossal nerve",
+    "action": "carry hyoid bone and the tongue upward during deglutition"
+  },
+  {
+    "muscle": "sternohyoid",
+    "origin": "manubrium of sternum",
+    "insertion": "hyoid bone",
+    "nerve": "ansa cervicalis",
+    "action": "depress hyoid bone"
+  },
+  {
+    "muscle": "sternothyroid",
+    "origin": "manubrium",
+    "insertion": "thyroid cartilage",
+    "nerve": "Ansa cervicalis",
+    "action": "Elevates larynx, may slightly depress hyoid bone"
+  },
+  {
+    "muscle": "thyrohyoid",
+    "origin": "thyroid cartilage",
+    "insertion": "hyoid bone",
+    "nerve": "first cervical nerve",
+    "action": "depress hyoid bone"
+  },
+  {
+    "muscle": "omohyoid",
+    "origin": "Upper border of the scapula",
+    "insertion": "Hyoid bone",
+    "nerve": "Ansa cervicalis",
+    "action": "Depresses the larynx and hyoid bone. Carries hyoid bone backward and to the side"
+  },
+  {
+    "muscle": "scalene muscles",
+    "origin": "cervical vertebrae",
+    "insertion": "first and second ribs",
+    "nerve": "cervical nerves (C3, C4, C5, C6, C7",
+    "action": "elevation of ribs I&II"
+  },
+  {
+    "muscle": "levator scapulae",
+    "origin": "Posterior tubercles of transverse processes of C1 - C4",
+    "insertion": "Superior part of medial border of scapula",
+    "nerve": "cervical nerve (C3, C4) and dorsal scapular nerve (C5)",
+    "action": "Elevates scapula and tilts its glenoid cavity inferiorly by rotating scapula"
+  },
+  {
+    "muscle": "rectus capitis lateralis",
+    "origin": "upper surface of the transverse process of the atlas (C1)",
+    "insertion": "under surface of the jugular process of the occipital bone",
+    "nerve": "C1",
+    "action": ""
+  },
+  {
+    "muscle": "obliquus capitis superior",
+    "origin": "lateral mass of atlas",
+    "insertion": "lateral half of the inferior nuchal line",
+    "nerve": "suboccipital nerve",
+    "action": ""
+  },
+  {
+    "muscle": "rectus capitis posterior minor",
+    "origin": "the tubercle on the posterior arch of the atlas (C1)",
+    "insertion": "the medial part of the inferior nuchal line of the occipital bone and the surface between it and the foramen magnum",
+    "nerve": "a branch of the dorsal primary division of the suboccipital nerve",
+    "action": "extends the head at the neck, but is now considered to be more of a sensory organ than a muscle"
+  },
+  {
+    "muscle": "rectus capitis posterior major",
+    "origin": "spinous process of the axis (C2)",
+    "insertion": "inferior nucheal line of the occipital bone",
+    "nerve": "Dorsal ramus of C1 (suboccipital nerve)",
+    "action": ""
+  },
+  {
+    "muscle": "semispinalis capitis",
+    "origin": "articular processes of C4-C6; transverse processes of C7 and T1-T7",
+    "insertion": "occipital bone between the superior and inferior nuchal lines",
+    "nerve": "greater occipital nerve",
+    "action": "Extension of the head"
+  },
+  {
+    "muscle": "longissimus capitis",
+    "origin": "articular processes of C4-C7; transverse processes ot T1-T5",
+    "insertion": "posterior margin of the mastoid process",
+    "nerve": "posterior branch of spinal nerve",
+    "action": "Laterally: Flex the head and neck to the same side. Bilaterally: Extend the vertebral column."
+  },
+  {
+    "muscle": "splenius capitis",
+    "origin": "ligamentum nuchae, spinous processes of C7-T6",
+    "insertion": "Mastoid process",
+    "nerve": "C3, C4",
+    "action": "Extend, rotate, and laterally flex the head"
+  },
+  {
+    "muscle": "erector spinae",
+    "origin": "on the spines of the last four thoracic vertebrae",
+    "insertion": "both the spines of the most cranial thoracic vertebrae and the cervical vertebrae",
+    "nerve": "posterior branch of spinal nerve",
+    "action": "extends the vertebral column"
+  },
+  {
+    "muscle": "latissimus dorsi",
+    "origin": "spinous processes of thoracic T6-T12, thoracolumbar fascia, iliac crest and inferior 3 or 4 ribs",
+    "insertion": "floor of intertubercular groove of the humerus",
+    "nerve": "thoracodorsal nerve",
+    "action": "pulls the forelimb dorsally and caudally"
+  },
+  {
+    "muscle": "transversospinales",
+    "origin": "transverse process",
+    "insertion": "spinous process",
+    "nerve": "posterior branches",
+    "action": ""
+  },
+  {
+    "muscle": "semispinalis dorsi",
+    "origin": "transverse processes of the sixth to the tenth thoracic vertebrae",
+    "insertion": "spinous processes of the upper four thoracic and lower two cervical vertebrae",
+    "nerve": "",
+    "action": ""
+  },
+  {
+    "muscle": "semispinalis cervicis",
+    "origin": "transverse processes of the upper five or six thoracic vertebræ",
+    "insertion": "cervical spinous processes, from the axis to the fifth",
+    "nerve": "",
+    "action": ""
+  },
+  {
+    "muscle": "semispinalis capitis",
+    "origin": "transversal process of lower cervical and higher thoracal columna",
+    "insertion": "area between superior and inferior nuchal line",
+    "nerve": "greater occipital nerve",
+    "action": "Extends the head"
+  },
+  {
+    "muscle": "multifidus",
+    "origin": "sacrum, erector spinae aponeurosis, PSIS, and iliac crest",
+    "insertion": "spinous process",
+    "nerve": "posterior branch of spinal nerve",
+    "action": "Stabilizes vertebrae in local movements of vertebral column"
+  },
+  {
+    "muscle": "rotatores",
+    "origin": "transverse process",
+    "insertion": "spinous process",
+    "nerve": "posterior branch",
+    "action": ""
+  },
+  {
+    "muscle": "interspinales",
+    "origin": "spinous process",
+    "insertion": "spinous process",
+    "nerve": "posterior rami of spinal nerves",
+    "action": "Extension, flexion and rotation of vertebral column."
+  },
+  {
+    "muscle": "intertransversarii",
+    "origin": "transverse process",
+    "insertion": "transverse process above",
+    "nerve": "anterior rami of spinal nerves",
+    "action": "Lateral flexion of trunk"
+  },
+  {
+    "muscle": "subcostales",
+    "origin": "inner surface of one rib",
+    "insertion": "inner surface of the second or third rib above, near its angle",
+    "nerve": "intercostal nerves",
+    "action": ""
+  },
+  {
+    "muscle": "transversus thoracis",
+    "origin": "costal cartilages of last 3-4 ribs, body of sternum, xiphoid process",
+    "insertion": "ribs/costal cartilages 2-6",
+    "nerve": "intercostal nerves",
+    "action": "depresses ribs"
+  },
+  {
+    "muscle": "levatores costarum",
+    "origin": "transverse processes of C7 to T12 vertebrae",
+    "insertion": "superior surfaces of the ribs immediately inferior to the preceding vertebrae",
+    "nerve": "dorsal rami - C8, T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11",
+    "action": "Assists in elevation of the thoracic rib cage"
+  },
+  {
+    "muscle": "diaphragm",
+    "origin": "",
+    "insertion": "",
+    "nerve": "phrenic and lower intercostal nerves",
+    "action": "respiration"
+  },
+  {
+    "muscle": "transversus abdominis",
+    "origin": "ribs and the iliac crest",
+    "insertion": "inserts into the pubic tubercle via the conjoint tendon, also known as the falx inguinalis",
+    "nerve": "intercostal nerves T7, T8, T9, T10, T11, subcostal nerve (T12), iliohypogastric nerve, ilioinguinal nerve, genitofemoral nerve",
+    "action": "compress the ribs and viscera, providing thoracic and pelvic stability"
+  },
+  {
+    "muscle": "rectus abdominis",
+    "origin": "pubis",
+    "insertion": "costal cartilages of ribs 5-7, xiphoid process of sternum",
+    "nerve": "segmentally by thoraco-abdominal nerves (T7, T8, T9, T10, T11, T12)",
+    "action": "flexion of trunk/lumbar vertebrae"
+  },
+  {
+    "muscle": "pyramidalis",
+    "origin": "pubic symphysis and pubic crest",
+    "insertion": "linea alba",
+    "nerve": "subcostal nerve (T12)",
+    "action": "tensing the linea alba"
+  },
+  {
+    "muscle": "cremaster",
+    "origin": "inguinal ligament",
+    "insertion": "",
+    "nerve": "genital branch of genitofemoral nerve",
+    "action": "raise and lower the scrotum"
+  },
+  {
+    "muscle": "quadratus lumborum",
+    "origin": "iliac crest and iliolumbar ligament",
+    "insertion": "last rib and transverse processes of lumbar vertebrae",
+    "nerve": "anterior branches of T12, L1, L2, L3, L4",
+    "action": "Alone, lateral flexion of vertebral column; Together, depression of thoracic rib cage"
+  },
+  {
+    "muscle": "coccygeus",
+    "origin": "sacrospinous ligament",
+    "insertion": "",
+    "nerve": "sacral nerves: S4, S5 or S3-S4",
+    "action": "closing in the back part of the outlet of the pelvis"
+  },
+  {
+    "muscle": "Deep perineal pouch",
+    "origin": "",
+    "insertion": "",
+    "nerve": "",
+    "action": ""
+  },
+  {
+    "muscle": "trapezius",
+    "origin": "down the midline, from the external occipital protuberance, the nuchal ligament, the medial part of the superior nuchal line, and the spinous processes of the vertebrae C7-T12",
+    "insertion": "at the shoulders, into the lateral third of the clavicle, the acromion process and into the spine of the scapula",
+    "nerve": "major nerve supply is the cranial nerve XI. cervical nerves C3 and C4 receive information about pain in this muscle",
+    "action": "retraction and elevation of scapula."
+  },
+  {
+    "muscle": "latissimus dorsi",
+    "origin": "spinous processes of thoracic T6-T12, thoracolumbar fascia, iliac crest and inferior 3 or 4 ribs",
+    "insertion": "floor of intertubercular groove of the humerus",
+    "nerve": "thoracodorsal nerve",
+    "action": "pulls the forelimb dorsally and caudally"
+  },
+  {
+    "muscle": "rhomboids",
+    "origin": "nuchal ligaments, spinous processes of C7-T5 vertebrae",
+    "insertion": "medial border of the scapula",
+    "nerve": "dorsal scapular nerve (C4 and C5)",
+    "action": "Retracts the scapula and rotates it to depress the glenoid cavity. fixes the scapula to the thoracic wall."
+  },
+  {
+    "muscle": "rhomboid major",
+    "origin": "spinous processes of the T2 to T5 vertebrae",
+    "insertion": "medial border of the scapula, inferior to the insertion of rhomboid minor muscle",
+    "nerve": "dorsal scapular nerve (C4 and C5)",
+    "action": "Retracts the scapula and rotates it to depress the glenoid cavity. It also fixes the scapula to the thoracic wall."
+  },
+  {
+    "muscle": "rhomboid minor",
+    "origin": "nuchal ligaments and spinous processes of C7- to T1 vertebrae",
+    "insertion": "medial border of the scapula, superior to the insertion of rhomboid major muscle",
+    "nerve": "dorsal scapular nerve (C4 and C5)",
+    "action": "Retracts the scapula and rotates it to depress the glenoid cavity. It also fixes the scapula to the thoracic wall."
+  },
+  {
+    "muscle": "levator scapulae",
+    "origin": "posterior tubercles of transverse processes of C1 - C4 vertebrae",
+    "insertion": "superior part of medial border of scapula",
+    "nerve": "cervical nerve (C3, C4) and dorsal scapular nerve (C5)",
+    "action": "Elevates scapula and tilts its glenoid cavity inferiorly by rotating scapula"
+  },
+  {
+    "muscle": "pectoralis major",
+    "origin": "anterior surface of the medial half of the clavicle.",
+    "insertion": "intertubercular groove of the humerus",
+    "nerve": "lateral pectoral nerve and medial pectoral nerve",
+    "action": "Clavicular head: flexes the humerus"
+  },
+  {
+    "muscle": "pectoralis minor",
+    "origin": "3rd to 5th ribs, near their costal cartilages",
+    "insertion": "medial border and superior surface of the coracoid process of the scapula",
+    "nerve": "Medial pectoral nerves (C8, T1)",
+    "action": "stabilizes the scapula by drawing it inferiorly and anteriorly against the thoracic wall"
+  },
+  {
+    "muscle": "subclavius",
+    "origin": "first rib",
+    "insertion": "subclavian groove of clavicle",
+    "nerve": "nerve to subclavius",
+    "action": "Depresses the clavicle"
+  },
+  {
+    "muscle": "serratus anterior",
+    "origin": "fleshy slips from the outer surface of upper 8 or 9 ribs",
+    "insertion": "costal aspect of medial margin of the scapula",
+    "nerve": "long thoracic nerve (from roots of brachial plexus C5, C6, C7)",
+    "action": "protract and stabilize scapula, assists in upward rotation"
+  },
+  {
+    "muscle": "deltoid",
+    "origin": "clavicle, acromion, spine of the scapula",
+    "insertion": "deltoid tuberosity of humerus",
+    "nerve": "Axillary nerve",
+    "action": "shoulder abduction, flexion and extension"
+  },
+  {
+    "muscle": "teres major",
+    "origin": "posterior aspect of the inferior angle of the scapula",
+    "insertion": "medial lip of the intertubercular sulcus of the humerus",
+    "nerve": "Lower subscapular nerve (segmental levels C5 and C6)",
+    "action": "Internal rotation of the humerus"
+  },
+  {
+    "muscle": "supraspinatus",
+    "origin": "supraspinous fossa of scapula",
+    "insertion": "superior facet of greater tubercle of humerus",
+    "nerve": "suprascapular nerve",
+    "action": "abduction of arm and stabilizes humerus"
+  },
+  {
+    "muscle": "infraspinatus",
+    "origin": "infraspinous fossa of the scapula",
+    "insertion": "middle facet of greater tubercle of the humerus",
+    "nerve": "suprascapular nerve",
+    "action": "Lateral rotation of arm & Adduction of arm and stabilizes humerus"
+  },
+  {
+    "muscle": "teres minor",
+    "origin": "lateral border of the scapula",
+    "insertion": "inferior facet of greater tubercle of the humerus",
+    "nerve": "axillary nerve",
+    "action": "laterally rotates and adducts the arm"
+  },
+  {
+    "muscle": "subscapularis",
+    "origin": "subscapular fossa",
+    "insertion": "lesser tubercle of humerus",
+    "nerve": "upper subscapular nerve, lower subscapular nerve (C5, C6)",
+    "action": "rotates medially humerus; stabilizes shoulder"
+  },
+  {
+    "muscle": "coracobrachialis",
+    "origin": "coracoid process of scapula",
+    "insertion": "medial humerus",
+    "nerve": "musculocutaneous nerve",
+    "action": "flexes at shoulder joint"
+  },
+  {
+    "muscle": "biceps brachii",
+    "origin": "short head: coracoid process of the scapula. long head: supraglenoid tubercle",
+    "insertion": "radial tuberosity",
+    "nerve": "Musculocutaneous nerve (Lateral cord: C5, C6, C7)",
+    "action": "flexes elbow and supinates forearm"
+  },
+  {
+    "muscle": "brachialis",
+    "origin": "anterior surface of the humerus, particularly the distal half of this bone",
+    "insertion": "coronoid process and the tuberosity of the ulna",
+    "nerve": "musculocutaneous nerve",
+    "action": "flexion at elbow joint"
+  },
+  {
+    "muscle": "triceps brachii",
+    "origin": "long head:Infraglenoid tubercle of the scapula",
+    "insertion": "olecranon process of ulna",
+    "nerve": "radial nerve",
+    "action": "extends forearm, caput longum adducts shoulder"
+  },
+  {
+    "muscle": "anconeus",
+    "origin": "Lateral epicondyle of the humerus",
+    "insertion": "lateral surface of the olecranon process and the superior part of the posterior ulna",
+    "nerve": "radial nerve (C7, C8, and T1)",
+    "action": "partly blended in with the triceps, which it assists in extension of the forearm. Stabilises the elbow and abducts the ulna during pronation."
+  },
+  {
+    "muscle": "pronator teres",
+    "origin": "humeral head: medial epicondyle of humerus (common flexor tendon)",
+    "insertion": "radius pronator tuberosity",
+    "nerve": "median nerve",
+    "action": "pronation of forearm, flexes elbow"
+  },
+  {
+    "muscle": "flexor carpi radialis",
+    "origin": "medial epicondyle of humerus (common flexor tendon)",
+    "insertion": "Bases of second and third metacarpal bones",
+    "nerve": "Median nerve",
+    "action": "Flexion and abduction at wrist"
+  },
+  {
+    "muscle": "palmaris longus",
+    "origin": "medial epicondyle of humerus (common flexor tendon)",
+    "insertion": "palmar aponeurosis",
+    "nerve": "median nerve",
+    "action": "wrist flexor"
+  },
+  {
+    "muscle": "flexor carpi ulnaris",
+    "origin": "medial epicondyle of the humerus (common flexor tendon)",
+    "insertion": "pisiform",
+    "nerve": "muscular branches of ulnar nerve",
+    "action": "flexion and adduction of wrist"
+  },
+  {
+    "muscle": "flexor digitorum superficialis",
+    "origin": "medial epicondyle of the humerus (common flexor tendon), as well as parts of the radius and ulna.",
+    "insertion": "phalanges II-IV",
+    "nerve": "median nerve",
+    "action": "flexor of fingers (primarily at proximal interphalangeal joints)"
+  },
+  {
+    "muscle": "pronator quadratus",
+    "origin": "medial, anterior surface of the ulna",
+    "insertion": "lateral, anterior surface of the radius",
+    "nerve": "median nerve (anterior interosseous nerve)",
+    "action": "pronates the forearm"
+  },
+  {
+    "muscle": "flexor digitorum profundus",
+    "origin": "ulna",
+    "insertion": "distal phalanges",
+    "nerve": "median (anterior interosseous), muscular branches of ulnar",
+    "action": "flex hand, interphalangeal joints"
+  },
+  {
+    "muscle": "flexor pollicis longus",
+    "origin": "The middle 2/4 of the volar surface of the radius and the adjacent interosseus membrane. (Also occasionally a small origin slightly on the medial epicondyle of the ulna.)",
+    "insertion": "The base of the distal phalanx of the thumb",
+    "nerve": "Anterior interosseous nerve (branch of median nerve) (C8, T1)",
+    "action": "Flexion of the thumb"
+  },
+  {
+    "muscle": "extensor digitorum",
+    "origin": "lateral epicondyle (common extensor tendon)",
+    "insertion": "2nd-4th phalange",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "extension of hand and fingers"
+  },
+  {
+    "muscle": "extensor digiti minimi",
+    "origin": "the anterior portion of the lateral epicondyle of the humerus (common extensor tendon)",
+    "insertion": "extensor expansion, located at the base of the proximal phalanx of the finger on the dorsal side",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "extends the little finger at all joints"
+  },
+  {
+    "muscle": "extensor carpi ulnaris",
+    "origin": "Common extensor tendon (lateral epicondyle), ulna",
+    "insertion": "5th metacarpal",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "extends and adducts the wrist"
+  },
+  {
+    "muscle": "brachioradialis",
+    "origin": "Lateral supracondylar ridge of the humerus",
+    "insertion": "Distal radius (Radial styloid process)",
+    "nerve": "radial nerve",
+    "action": "Flexion of forearm"
+  },
+  {
+    "muscle": "extensor carpi radialis longus",
+    "origin": "lateral supracondylar ridge",
+    "insertion": "2nd metacarpal",
+    "nerve": "radial nerve",
+    "action": "extensor at the wrist joint, abducts the hand at the wrist"
+  },
+  {
+    "muscle": "extensor carpi radialis brevis",
+    "origin": "humerus at the anterior of lateral epicondyle (common extensor tendon)",
+    "insertion": "base of the 3rd metacarpal",
+    "nerve": "posterior interosseus nerve",
+    "action": "extensor and abductor of the hand at the wrist joint"
+  },
+  {
+    "muscle": "supinator",
+    "origin": "Lateral epicondyle of the humerus, supinator crest of ulna, radial collateral ligament, annular ligament",
+    "insertion": "Lateral proximal radial shaft",
+    "nerve": "posterior interosseus nerve (C7, C8)",
+    "action": "supinates forearm"
+  },
+  {
+    "muscle": "extensor indicis",
+    "origin": "ulna",
+    "insertion": "index finger (extensor hood)",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "extends index finger, wrist"
+  },
+  {
+    "muscle": "abductor pollicis longus",
+    "origin": "ulna, radial styloid process",
+    "insertion": "first metacarpal",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "abduction, extension of thumb"
+  },
+  {
+    "muscle": "extensor pollicis brevis",
+    "origin": "radius",
+    "insertion": "thumb, proximal phalanx",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "extension of thumb at metacarpophalangeal joint"
+  },
+  {
+    "muscle": "extensor pollicis longus",
+    "origin": "ulna",
+    "insertion": "thumb, distal phalanx",
+    "nerve": "posterior interosseous nerve (C7, C8)",
+    "action": "extension of the thumb (metacarpophalangeal and interphalangeal)"
+  },
+  {
+    "muscle": "opponens pollicis",
+    "origin": "trapezium and transverse carpal ligament",
+    "insertion": "metacarpal bone of the thumb on its radial side",
+    "nerve": "median nerve",
+    "action": "Opposition of the thumb"
+  },
+  {
+    "muscle": "flexor pollicis brevis",
+    "origin": "trapezoid, flexor retinaculum",
+    "insertion": "thumb, proximal phalanx",
+    "nerve": "median nerve, deep branch of ulnar nerve (medial head)",
+    "action": "Flexes the thumb"
+  },
+  {
+    "muscle": "abductor pollicis brevis",
+    "origin": "Transverse carpal ligament, the scaphoid and trapezium",
+    "insertion": "Radial base of proximal phalanx of thumb and the thumb extensors",
+    "nerve": "Median nerve",
+    "action": "Abducts the thumb"
+  },
+  {
+    "muscle": "adductor pollicis",
+    "origin": "Transverse head: anterior body of the third metacarpal",
+    "insertion": "medial side of the base of the proximal phalanx of the thumb and the ulnar sesamoid",
+    "nerve": "deep branch of ulnar nerve (T1)",
+    "action": "adducts the thumb at the carpometacarpal joint"
+  },
+  {
+    "muscle": "palmaris brevis",
+    "origin": "flexor retinaculum (medial), palmar aponeurosis",
+    "insertion": "palm",
+    "nerve": "superficial branch of ulnar nerve",
+    "action": "wrinkle skin of palm"
+  },
+  {
+    "muscle": "lumbrical",
+    "origin": "flexor digitorum profundus",
+    "insertion": "extensor expansion",
+    "nerve": "deep branch of ulnar nerve, median nerve",
+    "action": "flex metacarpophalangeal joints, extend interphalangeal joints"
+  },
+  {
+    "muscle": "dorsal interossei",
+    "origin": "metacarpals",
+    "insertion": "proximal phalanges",
+    "nerve": "deep branch of ulnar nerve",
+    "action": "abduct finger"
+  },
+  {
+    "muscle": "palmar interossei",
+    "origin": "metacarpals",
+    "insertion": "proximal phalange",
+    "nerve": "deep branch of ulnar nerve",
+    "action": "adduction"
+  },
+  {
+    "muscle": "iliopsoas",
+    "origin": "iliac fossa (iliacus), sacrum (iliacus), spine (T12, L1, L2, L3, L4, L5) & intervertebral discs (psoas major, psoas minor)",
+    "insertion": "femur—lesser trochanter (psoas major/minor), shaft below lesser trochanter (iliacus), tendon of psoas major & femur (iliacus)",
+    "nerve": "femoral nerve, Lumbar nerves L1, L2",
+    "action": "flexion of hip (psoas major/minor, iliacus), spine rotation (psoas major/minor)"
+  },
+  {
+    "muscle": "psoas major",
+    "origin": "transverse processes, bodies and discs of T12-L5",
+    "insertion": "in the lesser trochanter of the femur",
+    "nerve": "Lumbar plexus via anterior branches of L1, L2, L3",
+    "action": "flexes and rotates laterally thigh"
+  },
+  {
+    "muscle": "psoas minor",
+    "origin": "Side of T12+L1 and IV Disc between",
+    "insertion": "Pectineal line and iliopectineal eminence",
+    "nerve": "L1",
+    "action": "Weak trunk flexor"
+  },
+  {
+    "muscle": "iliacus",
+    "origin": "iliac fossa",
+    "insertion": "lesser trochanter of femur",
+    "nerve": "femoral nerve (L2, L3)",
+    "action": "flexes hip"
+  },
+  {
+    "muscle": "tensor fascia latae",
+    "origin": "iliac crest",
+    "insertion": "iliotibial tract",
+    "nerve": "Superior gluteal nerve (L4, L5)",
+    "action": "Thigh - flexion, medial rotation. Trunk stabilization."
+  },
+  {
+    "muscle": "gluteus maximus muscle",
+    "origin": "Gluteal surface of ilium, lumbar fascia, sacrum, sacrotuberous ligament",
+    "insertion": "Gluteal tuberosity of the femur, iliotibial tract",
+    "nerve": "inferior gluteal nerve (L5, S1, S2 nerve roots)",
+    "action": "external rotation and extension of the hip joint, supports the extended knee through the iliotibial tract, chief antigravity muscle in sitting"
+  },
+  {
+    "muscle": "gluteus medius muscle",
+    "origin": "Gluteal surface of ilium, under gluteus maximus",
+    "insertion": "Greater trochanter of the femur",
+    "nerve": "superior gluteal nerve (L4, L5, S1 nerve roots)",
+    "action": "abduction of the hip; preventing adduction of the hip. Medial rotation of thigh."
+  },
+  {
+    "muscle": "gluteus minimus",
+    "origin": "Gluteal surface of ilium, under gluteus medius.",
+    "insertion": "Greater trochanter of the femur",
+    "nerve": "superior gluteal nerve (L4, L5, S1 nerve roots)",
+    "action": "Works in concert with gluteus medius: abduction of the hip; preventing adduction of the hip. Medial rotation of thigh."
+  },
+  {
+    "muscle": "lateral rotator group",
+    "origin": "at or below the acetabulum of the ilium",
+    "insertion": "on or near the greater trochanter of the femur",
+    "nerve": "Obturator nerve, nerve to the Piriformis, nerve to quadratus femoris",
+    "action": "lateral rotation of hip"
+  },
+  {
+    "muscle": "piriformis",
+    "origin": "sacrum",
+    "insertion": "greater trochanter",
+    "nerve": "nerve to the Piriformis (S1 and S2 nerve roots)",
+    "action": "laterally rotate (outward) the thigh"
+  },
+  {
+    "muscle": "obturator externus",
+    "origin": "obturator foramen and obturatory membrane",
+    "insertion": "medial aspect of greater trochanter of femur",
+    "nerve": "posterior branch of obturator nerve (L3, L4)",
+    "action": "adduct thigh, rotate laterally thigh"
+  },
+  {
+    "muscle": "obturator internus",
+    "origin": "Ischiopubic ramus & obturator membrane",
+    "insertion": "medial aspect of the Greater trochanter",
+    "nerve": "Nerve to obturator internus (L5, S1, S2)",
+    "action": "Abducts & rotates laterally thigh, and stabiliser of the hip during walking"
+  },
+  {
+    "muscle": "inferior gemellus",
+    "origin": "Ischial tuberosity",
+    "insertion": "Obturator internus tendon",
+    "nerve": "Nerve to Quadratus femoris (L4, L5, S1)",
+    "action": "Rotates laterally thigh"
+  },
+  {
+    "muscle": "superior gemellus",
+    "origin": "spine of the ischium",
+    "insertion": "Obturator internus tendon",
+    "nerve": "Sacral plexus (S1, S2, S3)",
+    "action": "Rotates laterally thigh"
+  },
+  {
+    "muscle": "quadratus femoris",
+    "origin": "ischial tuberosity",
+    "insertion": "intertrochanteric crest",
+    "nerve": "nerve to quadratus femoris (L4, L5, -S1)",
+    "action": "lateral rotation of thigh"
+  },
+  {
+    "muscle": "articularis genu",
+    "origin": "femur",
+    "insertion": "suprapatellar bursa",
+    "nerve": "femoral nerve",
+    "action": "Pulling the suprapatellar bursa during extension of the knee."
+  },
+  {
+    "muscle": "sartorius",
+    "origin": "superior to the anterior superior iliac spine",
+    "insertion": "medial side of the upper tibia in the pes anserinus",
+    "nerve": "femoral nerve",
+    "action": "flexion, lateral rotation and abduction of thigh; flexion and medial rotation of leg"
+  },
+  {
+    "muscle": "quadriceps femoris",
+    "origin": "combined rectus femoris and vastus muscles",
+    "insertion": "Patella and Tibial tuberosity via the Patellar ligament",
+    "nerve": "Femoral nerve",
+    "action": "Knee extension; Hip flexion (R.Fem. only)"
+  },
+  {
+    "muscle": "rectus femoris",
+    "origin": "anterior inferior iliac spine and the exterior surface of the bony ridge which forms the iliac portion of the acetabulum",
+    "insertion": "Patella and Tibial tuberosity via the Patellar ligament",
+    "nerve": "femoral nerve",
+    "action": "knee extension; hip flexion"
+  },
+  {
+    "muscle": "vastus lateralis",
+    "origin": "Greater trochanter, Intertrochanteric line, and Linea aspera of the femur",
+    "insertion": "patella and tibial tuberosity via the patellar ligament",
+    "nerve": "femoral nerve",
+    "action": "Extends and stabilizes knee"
+  },
+  {
+    "muscle": "vastus intermedius",
+    "origin": "antero/ lateral femur",
+    "insertion": "patella and tibial tuberosity via the patellar ligament",
+    "nerve": "femoral nerve",
+    "action": "extends knee"
+  },
+  {
+    "muscle": "vastus medialis",
+    "origin": "femur",
+    "insertion": "patella and tibial tuberosity via the patellar ligament",
+    "nerve": "femoral nerve",
+    "action": "extends knee"
+  },
+  {
+    "muscle": "biceps femoris",
+    "origin": "long head: tuberosity of the ischium, short head: linea aspera, femur",
+    "insertion": "the head of the fibula which articulates with the back of the lateral tibial condyle",
+    "nerve": "long head: medial (tibial) part of sciatic nerve, short head: lateral (common fibular) part of sciatic nerve",
+    "action": "flexes knee joint, laterally rotates leg at knee (when knee is flexed), extends hip joint (long head only)"
+  },
+  {
+    "muscle": "semitendinosus",
+    "origin": "tuberosity of the ischium",
+    "insertion": "pes anserinus",
+    "nerve": "sciatic (tibial, L5, S1, S2)",
+    "action": "flexes knee, extends hip joint, medially rotates leg at knee"
+  },
+  {
+    "muscle": "semimembranosus",
+    "origin": "tuberosity of the ischium",
+    "insertion": "Medial surface of tibia",
+    "nerve": "sciatic nerve",
+    "action": "flexes knee, extends hip joint, medially rotates leg at knee"
+  },
+  {
+    "muscle": "adductor muscles of the hip",
+    "origin": "pubis",
+    "insertion": "femur, tibia",
+    "nerve": "obturator nerve",
+    "action": "adduction of hip"
+  },
+  {
+    "muscle": "gracilis",
+    "origin": "inferior pubic ramus",
+    "insertion": "tibia (pes anserinus)",
+    "nerve": "anterior branch of obturator nerve",
+    "action": "adduction of hip, flexion of hip, medial rotation of knee"
+  },
+  {
+    "muscle": "pectineus",
+    "origin": "superior pubic ramus",
+    "insertion": "lesser trochanter, linea aspera",
+    "nerve": "femoral nerve, sometimes obturator nerve",
+    "action": "flexion & adduction of hip"
+  },
+  {
+    "muscle": "adductor brevis",
+    "origin": "anterior surface of the inferior pubic ramus",
+    "insertion": "the lesser trochanter and linea aspera of the femur",
+    "nerve": "anterior branch of obturator nerve",
+    "action": "adduction of hip"
+  },
+  {
+    "muscle": "adductor longus",
+    "origin": "pubic body just below the pubic crest",
+    "insertion": "middle third of linea aspera",
+    "nerve": "anterior branch of obturator nerve",
+    "action": "adduction & medial rotation of hip"
+  },
+  {
+    "muscle": "adductor magnus",
+    "origin": "tuberosity of the ischium",
+    "insertion": "femur and adductor tubercle of femur",
+    "nerve": "posterior branch of obturator nerve (adductor) and tibial part of sciatic nerve",
+    "action": "adduction of hip"
+  },
+  {
+    "muscle": "tibialis anterior",
+    "origin": "body of tibia",
+    "insertion": "medial cuneiform and first metatarsal bones of the foot",
+    "nerve": "Deep Fibular (peroneal) nerve",
+    "action": "dorsiflex and invert the foot"
+  },
+  {
+    "muscle": "extensor hallucis longus",
+    "origin": "middle portion of the fibula on the anterior surface and the interosseous membrane",
+    "insertion": "dorsal side of the base of the distal phalanx of the Hallux",
+    "nerve": "Deep Fibular (peroneal) nerve",
+    "action": "Extends the big toe and assists in dorsiflexion of the foot at the ankle. Also is a weak invertor"
+  },
+  {
+    "muscle": "extensor digitorum longus",
+    "origin": "Lateral Condyle of tibia and superior ¾ of interosseous membrane",
+    "insertion": "Middle and Distal phalanges of lateral four digits",
+    "nerve": "Deep Fibular (peroneal) nerve",
+    "action": "extension of toes and ankle"
+  },
+  {
+    "muscle": "fibularis tertius",
+    "origin": "distal anterior surface of the fibula",
+    "insertion": "dorsal surface of metatarsal 5",
+    "nerve": "Deep Fibular (peroneal) nerve",
+    "action": "dorsi flexes and everts foot"
+  },
+  {
+    "muscle": "triceps surae",
+    "origin": "",
+    "insertion": "achilles tendon, calcaneus",
+    "nerve": "tibial nerve",
+    "action": "plantarflexion"
+  },
+  {
+    "muscle": "gastrocnemius",
+    "origin": "femur(medial and lateral condyles)",
+    "insertion": "calcaneus",
+    "nerve": "tibial nerve from the sciatic, specifically, nerve roots S1, S2",
+    "action": "plantarflexion, flexion of knee (minor)"
+  },
+  {
+    "muscle": "soleus",
+    "origin": "fibula, medial border of tibia (soleal line)",
+    "insertion": "tendo calcaneus",
+    "nerve": "tibial nerve, specifically, nerve roots L5–S2",
+    "action": "plantarflexion"
+  },
+  {
+    "muscle": "plantaris",
+    "origin": "lateral supracondylar ridge of femur above lateral head of gastrocnemius",
+    "insertion": "tendo calcaneus (medial side, deep to gastrocnemius tendon)",
+    "nerve": "tibial nerve",
+    "action": "Plantar flexes foot and flexes knee"
+  },
+  {
+    "muscle": "popliteus",
+    "origin": "middle facet of the lateral surface of the lateral femoral condyle",
+    "insertion": "posterior tibia under the tibial condyles",
+    "nerve": "tibial nerve",
+    "action": "Medial rotation and flexion of knee"
+  },
+  {
+    "muscle": "flexor hallucis longus",
+    "origin": "fibula, posterior aspect of upper 1/3",
+    "insertion": "base of distal phalanx of hallux",
+    "nerve": "tibial nerve, S1, S2 nerve roots",
+    "action": "flexes all joints of the Hallux, plantar flexion of the ankle joint"
+  },
+  {
+    "muscle": "flexor digitorum longus",
+    "origin": "medial tibia",
+    "insertion": "distal phalanges of lateral four digits",
+    "nerve": "Tibial nerve",
+    "action": "Primary action is Flex digits"
+  },
+  {
+    "muscle": "tibialis posterior",
+    "origin": "tibia, fibula",
+    "insertion": "navicular, medial cuneiform",
+    "nerve": "tibial nerve",
+    "action": "inversion of the foot, plantar flexion of the foot at the ankle"
+  },
+  {
+    "muscle": "longus",
+    "origin": "fibula",
+    "insertion": "first metatarsal, medial cuneiform",
+    "nerve": "superficial fibular (peroneal) nerve",
+    "action": "plantarflexion, eversion"
+  },
+  {
+    "muscle": "brevis",
+    "origin": "fibula",
+    "insertion": "fifth metatarsal",
+    "nerve": "superficial fibular (peroneal) nerve",
+    "action": "plantarflexion, eversion"
+  },
+  {
+    "muscle": "extensor digitorum brevis",
+    "origin": "calcaneus",
+    "insertion": "toes",
+    "nerve": "deep peroneal nerve",
+    "action": "extends digits 2, 3, and 4"
+  },
+  {
+    "muscle": "extensor hallucis brevis",
+    "origin": "calcaneus",
+    "insertion": "base of proximal phalanx of hallux",
+    "nerve": "deep peroneal nerve",
+    "action": "Extension of hallux"
+  },
+  {
+    "muscle": "abductor hallucis",
+    "origin": "medial process of calcaneus, flexor retinaculum, plantar aponeurosis",
+    "insertion": "medial side of base of proximal phalanx of first digit",
+    "nerve": "medial plantar nerve",
+    "action": "abducts hallux"
+  },
+  {
+    "muscle": "flexor digitorum brevis",
+    "origin": "medial process of calcaneus, plantar aponeurosis, intermuscular septa",
+    "insertion": "middle phalanges of digits 2-5",
+    "nerve": "medial plantar nerve",
+    "action": "flexes lateral four toes"
+  },
+  {
+    "muscle": "abductor digiti minimi",
+    "origin": "Plantar aponeurosis",
+    "insertion": "Fifth toe or Phalanges",
+    "nerve": "lateral plantar nerve (S1, S2)",
+    "action": "flex and abduct the fifth toe"
+  },
+  {
+    "muscle": "quadratus plantae",
+    "origin": "Calcaneus",
+    "insertion": "Tendons of Flexor Digitorum Longus",
+    "nerve": "lateral plantar nerve (S1, S2)",
+    "action": "Assists Flexor Digitorum Longus in flexion of DIP joints"
+  },
+  {
+    "muscle": "lumbrical muscle",
+    "origin": "tendons of flexor digitorum longus",
+    "insertion": "medial aspect of extensor expansion of proximal phalanges of lateral four digits",
+    "nerve": "lateral plantar nerve (lateral three lumbricals) and medial plantar nerve (first lumbrical)",
+    "action": "maintain extension of digits at interphalangeal joints"
+  },
+  {
+    "muscle": "flexor hallucis brevis",
+    "origin": "",
+    "insertion": "",
+    "nerve": "medial plantar nerve",
+    "action": "flex hallux"
+  },
+  {
+    "muscle": "adductor hallucis",
+    "origin": "",
+    "insertion": "",
+    "nerve": "Plantar nerve",
+    "action": "adducts hallux"
+  },
+  {
+    "muscle": "flexor digiti minimi brevis",
+    "origin": "fifth metatarsal bone",
+    "insertion": "phalanx of the fifth toe",
+    "nerve": "lateral plantar nerve (superficial branch)",
+    "action": "extend and adduct the fifth toe"
+  },
+  {
+    "muscle": "dorsal interossei",
+    "origin": "",
+    "insertion": "",
+    "nerve": "plantar nerve",
+    "action": "abduct toes"
+  },
+  {
+    "muscle": "plantar interossei",
+    "origin": "metatarsals",
+    "insertion": "proximal phalanges",
+    "nerve": "plantar nerve",
+    "action": "adduct toes"
+  }
+]
