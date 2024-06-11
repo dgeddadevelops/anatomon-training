@@ -7,7 +7,7 @@ Populate test user and login
 
 Click on Study Mode Toggle and Pokemon cards become Myology flash cards
 ![main page samples](anatomon-trainers2.png)
-### Live App at https://anatomon-training.dgeddadevelops.me
+### Live app at https://anatomon-training.dgeddadevelops.me
 ## Fun Technologies & Workflows
 Auth:
 - Login functionality with session authentication with HTTP only cookie
@@ -29,8 +29,8 @@ GitHub:
 ### Sample of Network Tab
 ![network tab stats](network-tab.png)
 
-#### The process of using imagemagick on linux to manually convert images to webp and avif formats and then to organize into separate folders on R2 Bucket with logic in Worker to Serve format based on Accept Header was really fun and felt responsible instead of opting to use image service. (Plans to link to Gist here)
-## Plans for Enhancements & Features:
+#### The process of using Imagemagick to manually convert images to webp and avif formats then organizing these into separate folders on R2 Bucket with logic in Worker to serve format based on Accept Header was really fun, and felt responsible instead of opting to use image service. (Plans to link to Gist here)
+## Future Features & Enhancements:
 - Captcha
 - Localization Workflow for Spanish & French (looking forward to this!)
 - Integration of a Pomodoro Timer in Study Mode
