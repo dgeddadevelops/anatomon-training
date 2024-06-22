@@ -8,7 +8,7 @@ Populate test user and login
 Click on Study Mode Toggle and Pokemon cards become Myology flash cards
 ![main page samples](anatomon-trainers2.png)
 ### Live app at https://anatomon-training.dgeddadevelops.me
-## Fun Technologies & Workflows
+## Technologies & Workflows
 Auth:
 - Login functionality with session authentication with HTTP only cookie
 - J.W.T. for authorization with Cloudflare CDN
@@ -29,7 +29,7 @@ GitHub:
 ### Sample of Network Tab
 ![network tab stats](network-tab.png)
 
-#### The process of using Imagemagick to manually convert images to webp and avif formats then organizing these into separate folders on R2 Bucket with logic in Worker to serve format based on Accept Header was really fun, and felt responsible instead of opting to use image service. (Plans to link to Gist here)
+#### Implementing a strategy to convert images into webp and avif formats, categorizing them into specific folders on an S3 Bucket, and embedding logic within a Worker to deliver images based on the Client's Accept Header provides significant cost efficiencies compared to outsourcing image optimization to a cloud provider. (Plans to link to Gist here)
 ## Future Features & Enhancements:
 - Captcha
 - Localization Workflow for Spanish & French (looking forward to this!)
