@@ -29,7 +29,7 @@ GitHub:
 ### Sample of Network Tab
 ![network tab stats](network-tab.png)
 
-#### Implementing a strategy to convert images into webp and avif formats, categorizing them into specific folders on an S3 Bucket, and embedding logic within a Worker to deliver images based on the Client's Accept Header provides significant cost efficiencies compared to outsourcing image optimization to a cloud provider. (Plans to link to Gist here)
+#### Implementing a strategy to convert images into webp and avif formats, categorizing them into specific folders on an S3 Bucket, and embedding logic within a Worker to deliver images based on the Client's Accept Header provides significant cost efficiencies compared to outsourcing image optimization to a cloud provider. Gist: https://gist.github.com/dgeddadevelops/f29e7d9186f7bbdfe0215bcfc6f74c98
 ## Future Features & Enhancements:
 - Captcha
 - Localization Workflow for Spanish & French (looking forward to this!)
